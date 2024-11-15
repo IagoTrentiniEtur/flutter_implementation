@@ -1,6 +1,6 @@
 # flutter_implementation
 
-A new Flutter project.
+Um projeto Flutter que usa o recurso de LocalStorage, usa textos, botões, listas, recursos de ao menos 4 widgets diferentes, e contém implementação de Layout com ao menos duas telas.
 
 ## Getting Started
 
